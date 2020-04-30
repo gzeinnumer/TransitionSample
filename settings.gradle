@@ -1,0 +1,2 @@
+rootProject.name='Transition Sample'
+include ':app'
